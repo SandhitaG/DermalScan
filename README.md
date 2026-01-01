@@ -92,7 +92,7 @@ preprocessed_dataset/
 
 ## Model Performance
 
-* **Training Accuracy:** 88%
+* **Training Accuracy:** 95%
 * **Best Validation Accuracy:** 88%    
 * Strong predictions for visually prominent features
 * Stable training and validation curves
@@ -155,30 +155,7 @@ DermalScan/
 └── README.md
 ```
 
----
 
-## Challenges Faced
 
-* Limited dataset size
-* Overlapping visual skin features
-* Face detection inaccuracies in some images
 
----
 
-## Future Enhancements
-
-* Increase dataset size for better generalization
-* Replace Haar Cascade with YOLO or MediaPipe
-* Add age estimation and skin health score
-* Deploy as a mobile or cloud-based application
-
----
-
-## Conclusion
-
-DermalScan successfully demonstrates the use of **deep learning and computer vision** to detect facial skin aging signs.
-The project showcases a complete AI pipeline — from data preprocessing to deployment — with strong potential for real-world skincare and dermatological applications.
-
----
-
-Just tell me 👍
