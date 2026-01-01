@@ -112,7 +112,7 @@ The Streamlit-based UI allows users to:
 
 ---
 
-## Export & Logging (Module 7)
+## Export & Logging 
 
 * Annotated image can be downloaded
 * Predictions are logged in CSV format
@@ -149,10 +149,7 @@ DermalScan/
 ├── convert_model.py
 ├── dermalscan_streamlit.keras
 ├── preprocessed_dataset/
-├── assets/
-├── prediction_logs.csv
-├── requirements.txt
-└── README.md
+└── requirements.txt
 ```
 
 
